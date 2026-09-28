@@ -281,10 +281,10 @@
 
 ---
 
-<h2 align="center">⚡ Contribution Journey</h2>
+<h2 align="center">⚡ Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sohanghosh2308-creator/sohanghosh2308-creator/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://ghchart.rshah.org/ef4444/sohanghosh2308-creator" alt="Sohan Ghosh's GitHub Contribution Chart" width="100%" style="max-width: 720px; filter: drop-shadow(0 4px 20px rgba(239, 68, 68, 0.15));" />
 </p>
 
 ---
