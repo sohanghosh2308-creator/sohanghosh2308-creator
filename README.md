@@ -66,7 +66,7 @@
 <tr>
 <td width="50%" align="center" style="padding: 16px; border: 1px solid rgba(239,68,68,0.2); border-radius: 10px; background: rgba(10,10,10,0.5);">
   <h4>🌦️ Flagship Project</h4>
-  <p><a href="https://github.com/sohanghosh2308-creator/weather-dashboard" target="_blank"><b>NEXUS Weather Dashboard</b></a><br /><sub>Live Geolocation Forecasts, Interactive Maps &amp; Glassmorphism UI</sub></p>
+  <p><a href="https://github.com/sohanghosh2308-creator/weather-dashboard" target="_blank"><b>Meteorological Weather Dashboard</b></a><br /><sub>Live Geolocation Forecasts, Living Atmosphere &amp; Open-Meteo API</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 16px; border: 1px solid rgba(239,68,68,0.2); border-radius: 10px; background: rgba(10,10,10,0.5);">
   <h4>💼 Enterprise Systems</h4>
@@ -92,10 +92,10 @@
 <table width="100%" border="0" align="center">
 <tr>
 <td width="100%" align="center" style="padding: 24px; border: 1px solid rgba(239,68,68,0.3); border-radius: 12px; background: #0c0709;">
-  <h3>🌦️ NEXUS — Meteorological Weather Dashboard</h3>
-  <p><i>A responsive, dynamic real-time weather analytics application featuring automatic geolocation tracking, interactive Leaflet.js mapping, multi-metric climate indicators, instant city search, and a modern glassmorphic interface.</i></p>
+  <h3>🌦️ Meteorological Weather Dashboard</h3>
+  <p><i>A professional meteorological weather application developed with React 19 &amp; Vite, integrating real-time weather feeds, automatic physical GPS position resolution via HTML5 Geolocation API, dynamic weather-based color grading, living atmospheric sky engine, and celestial sunrise/sunset telemetry.</i></p>
   <p>
-    <code>HTML5</code> • <code>CSS3 / Glassmorphism</code> • <code>JavaScript ES6+</code> • <code>Leaflet.js Maps</code> • <code>Open-Meteo APIs</code> • <code>Geolocation API</code>
+    <code>React 19</code> • <code>Vite</code> • <code>OpenWeatherMap &amp; Open-Meteo APIs</code> • <code>HTML5 Geolocation</code> • <code>Dynamic Weather Color Grading</code> • <code>Living Sky Engine</code>
   </p>
   <br />
   <p>
@@ -151,9 +151,9 @@
     </thead>
     <tbody>
       <tr>
-        <td><b>🌦️ NEXUS Weather</b></td>
-        <td>Real-time meteorological forecasts, live geolocation, interactive maps</td>
-        <td><code>JavaScript</code>, <code>Leaflet.js</code>, <code>CSS3</code></td>
+        <td><b>🌦️ Weather Dashboard</b></td>
+        <td>Professional meteorological dashboard with live GPS tracking, living atmosphere &amp; dynamic color grading</td>
+        <td><code>React 19</code>, <code>Vite</code>, <code>REST APIs</code></td>
         <td><a href="https://github.com/sohanghosh2308-creator/weather-dashboard">Code</a> • <a href="https://sohanghosh2308-creator.github.io/weather-dashboard/">Demo</a></td>
       </tr>
       <tr>
